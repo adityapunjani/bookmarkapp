@@ -1,4 +1,4 @@
 bookmarkapp
 ===========
 
-Bookmarks Management App in Backbone.js , along with local storage and Bootstrap css.
+Bookmarks Management and Search App in Backbone.js, using local storage and Bootstrap css.
